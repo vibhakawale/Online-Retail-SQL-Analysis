@@ -1,6 +1,6 @@
-# Online-Retail-SQL-Analysis
+# Online-Retail-SQL-Analysis using SQL Server
 
-This project analyzes online retail sales data using MySQL queries to extract business insights such as total revenue, top-selling products, customer spending, and monthly sales trends.
+This project analyzes online retail sales data using SQL queries to extract business insights such as total revenue, top-selling products, customer spending, and monthly sales trends.
 
 ## Tools Used
 - MySQL
