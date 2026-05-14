@@ -1,24 +1,36 @@
-# Online-Retail-SQL-Analysis using SQL Server
+# House Price SQL Analysis
 
-This project analyzes online retail sales data using SQL queries to extract business insights such as total revenue, top-selling products, customer spending, and monthly sales trends.
+## Overview
+This project analyzes a housing dataset using SQL Server to explore house prices, property features, and customer insights.
 
 ## Tools Used
-- MySQL
-- SQL
-- CSV Dataset
+- SQL Server
+- SSMS
 
 ## SQL Concepts Used
 - SELECT
+- WHERE
 - GROUP BY
 - ORDER BY
-- Aggregate Functions
-- LIMIT
-- MONTH()
+- SUM()
+- AVG()
+- COUNT()
+- CASE Statements
+- CAST()
+- ROUND()
 
 ## Analysis Performed
-- Total Revenue
-- Monthly Revenue
-- Top Customers
-- Best Selling Products
-- Revenue by Country
-- Average Order Value
+- Total revenue calculation
+- Average house price
+- Top 10 expensive houses
+- Price comparison by furnishing status
+- Bedroom-wise price analysis
+- Houses with air conditioning
+- Parking analysis
+- Largest houses by area
+- Main road and basement price comparison
+
+## Key Insights
+- Furnished houses have a higher average price compared to semi-furnished and unfurnished houses.
+- Fully furnished houses have the highest average area compared to semi-firsnished and unfurnished.
+- Main road access increases property value.
