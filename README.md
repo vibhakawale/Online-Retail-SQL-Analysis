@@ -32,7 +32,11 @@ This project analyzes a housing dataset using SQL Server to explore house prices
 
 ## Key Insights
 - Furnished houses have a higher average price compared to semi-furnished and unfurnished houses.
-  ![avg price furnishing](Screenshots/avg_price_by_furnishing.png)
+  
+  ![avg price by furnishing](Screenshots/avg_price_by_furnishing.png)
+  
 - Fully furnished houses have the highest average area compared to semi-firsnished and unfurnished.
+  
+  ![avg area by furnishing] (Screenshots/avg_area_by_furnishing.png)
   
 - Main road access increases property value.
