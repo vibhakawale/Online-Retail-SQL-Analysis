@@ -54,7 +54,8 @@ SELECT
 	furnishingstatus,
 	AVG(area) AS avg_area
 FROM online_retail
-GROUP BY furnishingstatus;
+GROUP BY furnishingstatus
+ORDER BY avg_area DESC;
 
 -- Top 5 Largest Houses
 SELECT TOP 5
